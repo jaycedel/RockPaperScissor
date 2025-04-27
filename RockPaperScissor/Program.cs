@@ -23,6 +23,7 @@ namespace RockPaperScissor
             Random rnd = new();
             randomInt = rnd.Next(1,4);
             //testing adding comment only
+            // test for pull
             switch (randomInt)
             {
                 case 1:
