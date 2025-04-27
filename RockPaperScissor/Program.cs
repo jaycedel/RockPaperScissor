@@ -22,7 +22,7 @@ namespace RockPaperScissor
             inputPlayer = inputPlayer.ToUpper();
             Random rnd = new();
             randomInt = rnd.Next(1,4);
-
+            //testing adding comment only
             switch (randomInt)
             {
                 case 1:
